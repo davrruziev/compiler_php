@@ -67,6 +67,7 @@
     <pre id="editor"></pre>
     <button id="run">RUN</button>
     <div id="view">
+        <form action=""></form>
         <textarea id="result" readonly>
         </textarea> 
         <button id="clear">Clear</button>
